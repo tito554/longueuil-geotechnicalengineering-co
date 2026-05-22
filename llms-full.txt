@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Longueuil
+
+> Geotechnical engineering services in Longueuil, Canada.
+
+## Services
+- [Anchors](https://longueuil.geotechnicalengineering.co/anchors/)
+- [Atterberg Limits](https://longueuil.geotechnicalengineering.co/atterberg-limits/)
+- [Cbr Road](https://longueuil.geotechnicalengineering.co/cbr-road/)
+- [Cpt Test](https://longueuil.geotechnicalengineering.co/cpt-test/)
+- [Deep Excavations](https://longueuil.geotechnicalengineering.co/deep-excavations/)
+- [Excavation Monitoring](https://longueuil.geotechnicalengineering.co/excavation-monitoring/)
+- [Excavations](https://longueuil.geotechnicalengineering.co/excavations/)
+- [Flexible Pavement](https://longueuil.geotechnicalengineering.co/flexible-pavement/)
+- [Footings](https://longueuil.geotechnicalengineering.co/footings/)
+- [Foundations](https://longueuil.geotechnicalengineering.co/foundations/)
+- [Grain Size](https://longueuil.geotechnicalengineering.co/grain-size/)
+- [Ground Improvement](https://longueuil.geotechnicalengineering.co/ground-improvement/)
+- [Grouting](https://longueuil.geotechnicalengineering.co/grouting/)
+- [In Situ Permeability](https://longueuil.geotechnicalengineering.co/in-situ-permeability/)
+- [Investigation](https://longueuil.geotechnicalengineering.co/investigation/)
+- [Lab In Situ](https://longueuil.geotechnicalengineering.co/lab-in-situ/)
+- [Laboratory](https://longueuil.geotechnicalengineering.co/laboratory/)
+- [Liquefaction](https://longueuil.geotechnicalengineering.co/liquefaction/)
+- [Masw](https://longueuil.geotechnicalengineering.co/masw/)
+- [Mat Foundations](https://longueuil.geotechnicalengineering.co/mat-foundations/)
+- [Piles](https://longueuil.geotechnicalengineering.co/piles/)
+- [Proctor Tests](https://longueuil.geotechnicalengineering.co/proctor-tests/)
+- [Resistivity](https://longueuil.geotechnicalengineering.co/resistivity/)
+- [Retaining Walls](https://longueuil.geotechnicalengineering.co/retaining-walls/)
+- [Rigid Pavement](https://longueuil.geotechnicalengineering.co/rigid-pavement/)
+- [Road Geotechnics](https://longueuil.geotechnicalengineering.co/road-geotechnics/)
+- [Sand Cone Density](https://longueuil.geotechnicalengineering.co/sand-cone-density/)
+- [Seismic](https://longueuil.geotechnicalengineering.co/seismic/)
+- [Seismic Isolation](https://longueuil.geotechnicalengineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://longueuil.geotechnicalengineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://longueuil.geotechnicalengineering.co/seismic-refraction/)
+- [Slope Stability](https://longueuil.geotechnicalengineering.co/slope-stability/)
+- [Slopes](https://longueuil.geotechnicalengineering.co/slopes/)
+- [Soft Ground Tunnels](https://longueuil.geotechnicalengineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://longueuil.geotechnicalengineering.co/spt-drilling/)
+- [Stone Columns](https://longueuil.geotechnicalengineering.co/stone-columns/)
+- [Test Pits](https://longueuil.geotechnicalengineering.co/test-pits/)
+- [Triaxial](https://longueuil.geotechnicalengineering.co/triaxial/)
+- [Vibrocompaction](https://longueuil.geotechnicalengineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://longueuil.geotechnicalengineering.co/
+
+## About
+This site provides geotechnical engineering services in Longueuil, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
